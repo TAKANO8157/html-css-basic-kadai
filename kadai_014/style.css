@@ -1,7 +1,9 @@
 html {
   font-size: 20px;
 }
-
+h1 {
+  font-size: 2em; 
+}
 body {
   font-family: "Arial", "Meiryo", sans-serif;
 }
@@ -14,9 +16,7 @@ body {
   font-style: normal;
 }
 
-h1 {
-  font-size: 2em; 
-}
+
 .skyblue {
   color: skyblue;
 }
@@ -34,6 +34,10 @@ body{text-align: center;
 h1{letter-spacing: 1.2em;
 text-shadow: 1px 1px 2px gray;
 border-bottom: solid 3px rgb(115,115,114)}
+
+.parent p {
+  font-weight: bold;
+}
 
 
 
